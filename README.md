@@ -39,4 +39,4 @@ La promesa de autonomía se aterriza en una estructura organizacional visible y 
 
 ---
 
-*Siguiente paso:* [👉 Explora nuestro Pilar 2: Evidencia (Arquitectura, escala y prácticas reales)](../02-evidencia/README.md)
+*Siguiente paso:* [👉 Explora nuestro Pilar 2: Evidencia (Arquitectura, escala y prácticas reales)](https://github.com/CLeonRecruiter/Arquitectura-Escala-y-Practicas-Reales)
