@@ -35,7 +35,7 @@ La promesa de autonomía se aterriza en una estructura organizacional visible y 
 ![Estructura de Tribus](assets/tribus.png)
 
 <!-- Video de Entrevista LJ Monolito -->
-<video src="assets/Entrevista LJ Monolito.mp4" controls width="100%"></video>
+<video src="https://github.com/CLeonRecruiter/Posicionamiento-y-cultura-technical-first-Buk.md/raw/refs/heads/main/Entrevista%20LJ%20Monolito.mp4" controls width="100%"></video>
 
 ---
 
