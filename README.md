@@ -7,7 +7,7 @@ Nuestros ingenieros deciden, construyen y son dueños de su impacto. No publicam
 El ciclo completo es tuyo: **build, ship, run**. Tienes autonomía real sobre software de alto impacto, eliminando las dinámicas de vacantes genéricas para darte verdadero control sobre lo que construyes.
 
 <!-- Video de Engineering Personas -->
-<video src="https://github.com/CLeonRecruiter/Posicionamiento-y-cultura-technical-first-Buk.md/raw/refs/heads/main/Video%20Engineering%20Personas-2.mp4" controls width="100%"></video>
+[![Engineering Personas](assets/thumbnail-engineering-personas.svg)](https://github.com/CLeonRecruiter/Posicionamiento-y-cultura-technical-first-Buk.md/raw/refs/heads/main/Video%20Engineering%20Personas-2.mp4)
 
 ## 📈 Escala con Credibilidad
 
@@ -35,7 +35,7 @@ La promesa de autonomía se aterriza en una estructura organizacional visible y 
 ![Estructura de Tribus](assets/tribus.png)
 
 <!-- Video de Entrevista LJ Monolito -->
-<video src="https://github.com/CLeonRecruiter/Posicionamiento-y-cultura-technical-first-Buk.md/raw/refs/heads/main/Entrevista%20LJ%20Monolito.mp4" controls width="100%"></video>
+[![Entrevista LJ Monolito](assets/thumbnail-entrevista-lj.svg)](https://github.com/CLeonRecruiter/Posicionamiento-y-cultura-technical-first-Buk.md/raw/refs/heads/main/Entrevista%20LJ%20Monolito.mp4)
 
 ---
 
