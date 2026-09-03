@@ -7,7 +7,7 @@ Nuestros ingenieros deciden, construyen y son dueños de su impacto. No publicam
 El ciclo completo es tuyo: **build, ship, run**. Tienes autonomía real sobre software de alto impacto, eliminando las dinámicas de vacantes genéricas para darte verdadero control sobre lo que construyes.
 
 <!-- Video de Engineering Personas -->
-<video src="Video%20Engineering%20Personas-2.mp4" controls width="100%"></video>
+<video src="https://github.com/CLeonRecruiter/Posicionamiento-y-cultura-technical-first-Buk.md/raw/refs/heads/main/Video%20Engineering%20Personas-2.mp4" controls width="100%"></video>
 
 ## 📈 Escala con Credibilidad
 
